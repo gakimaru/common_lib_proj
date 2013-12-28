@@ -1,20 +1,20 @@
 [submodule "lib/common"]
 	path = lib/common
 	url = git@github.com:gakimaru/common_lib.git
-	branch = master
+	branch = proj_c
 [submodule "lib/common_src"]
 	path = lib/common_src
 	url = git@github.com:gakimaru/common_lib_src.git
-	branch = master
+	branch = proj_c
 [submodule "lib/confidential"]
 	path = lib/confidential
 	url = git@github.com:gakimaru/common_lib_confidential.git
-	branch = master
+	branch = proj_c
 [submodule "lib/confidential_src"]
 	path = lib/confidential_src
 	url = git@github.com:gakimaru/common_lib_confidential_src.git
-	branch = master
-[submodule "lib/individual"]
-	path = lib/individual
-	url = git@github.com:gakimaru/common_lib_individual.git
-	branch = master
+	branch = proj_c
+[submodule "lib/individual_for_studio_x"]
+	path = lib/individual_for_studio_x
+	url = git@github.com:gakimaru/common_lib_individual_for_studio_x.git
+	branch = proj_c
