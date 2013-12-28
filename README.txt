@@ -42,10 +42,11 @@
 --------------------------------------------------------------------------------
 ▼サブモジュール適用フォルダ
 
-・/lib/common/                  ← common_lib
-・/lib/common_src/              ← common_lib_src
-・/lib/common_confidential/     ← common_lib
-・/lib/common_confidential_src/ ← common_lib_src
+・/lib/individual/       ← common_lib_individual
+・/lib/common/           ← common_lib
+・/lib/common_src/       ← common_lib_src
+・/lib/confidential/     ← common_lib
+・/lib/confidential_src/ ← common_lib_src
 
 --------------------------------------------------------------------------------
 以上
